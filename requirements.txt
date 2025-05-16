@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+yfinance
+backtrader
+pandas
+numpy
+plotly
+gradio>=3.0.0
